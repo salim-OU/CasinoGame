@@ -15,3 +15,20 @@ CasinoGame est un jeu simple où l'utilisateur choisit un nombre entre 1 et 10. 
 
 ```bash
 git clone https://votre-repo-url.git
+
+Utilisation
+Compilez le fichier Java :
+Copier
+javac CasinoGame.java
+Exécutez le programme :
+Copier
+java CasinoGame
+
+
+Choisissez un nombre entre 1 et 10 : 5
+Le nombre généré est : 7
+Désolé, vous avez perdu. Essayez encore.
+Voulez-vous rejouer ? (oui/non) : oui
+Choisissez un nombre entre 1 et 10 : 3
+Le nombre généré est : 3
+Félicitations ! Vous avez gagné !
