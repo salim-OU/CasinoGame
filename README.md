@@ -24,6 +24,13 @@ Exécutez le programme :
 Copier
 java CasinoGame
 
+Utilisation
+Compilez le fichier Java :
+Copier
+javac CasinoGame.java
+Exécutez le programme :
+Copier
+java CasinoGame
 
 Choisissez un nombre entre 1 et 10 : 5
 Le nombre généré est : 7
