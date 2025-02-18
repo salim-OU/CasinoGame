@@ -31,7 +31,7 @@ javac CasinoGame.java
 Exécutez le programme :
 Copier
 java CasinoGame
-
+#Exemple de jeux 
 Choisissez un nombre entre 1 et 10 : 5
 Le nombre généré est : 7
 Désolé, vous avez perdu. Essayez encore.
