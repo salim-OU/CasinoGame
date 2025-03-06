@@ -14,7 +14,7 @@ CasinoGame est un jeu simple où l'utilisateur choisit un nombre entre 1 et 10. 
 2. Clonez ce dépôt ou téléchargez le fichier `CasinoGame.java`.
 
 ```bash
-git clone https://votre-repo-url.git
+git clone https://Casino.git
 
 
 
